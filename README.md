@@ -92,6 +92,3 @@ Read file [AUTHORS](AUTHORS).
 * [Wiki](https://www.trinitycore.info)
 * [Forums](https://community.trinitycore.org)
 * [Discord](https://discord.trinitycore.org/)
-
-
-test
